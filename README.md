@@ -14,13 +14,13 @@ cmdCrypt.exe <Parameter> "Source(-Filename)" "Output(-Filename)" "Password" "Sal
 <b>Compare.exe</b><br>
 Compare the files in a directory with another.<br>
 
-<b>Usage:</b><br>
+Usage:<br>
 compare.exe Folder1 Folder2 <br>
 
-<b>TBL.exe</b>
-Shows you a (very) simple table view of your csv-file.
+<b>TBL.exe</b><br>
+Shows you a (very) simple table view of your csv-file.<br>
 
-Usage:
- tbl (filepath) <seperator>
+Usage:<br>
+ tbl (filepath) <seperator><br>
  
 ... more is comming ...
