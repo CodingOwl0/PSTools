@@ -3,11 +3,11 @@
 
 <h3>Overview:</h3><br>
 
-sc.bat
+suc.bat<br>
 Simple file-explorer within cmd / powershell (add & delete files and more)
 
-c64.bat
-/
+c64.bat<br>
+/<br>
 
 
-... more is comming ...
+... more is comming ...<br>
